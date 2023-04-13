@@ -1,0 +1,7 @@
+- the brother or sister of JS, with some discipline
+- built on top of JS
+- more robust and maintanable: 
+    - static typing (JS with type checking)
+    - code completion
+    - refactoring
+    - new features (over time these are added to JS)
