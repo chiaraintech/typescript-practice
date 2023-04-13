@@ -4,4 +4,4 @@
     - static typing (JS with type checking)
     - code completion
     - refactoring
-    - new features (over time these are added to JS)
+    - new features (over time these are added to JS) (these features will be used in the future JS)
